@@ -1,3 +1,5 @@
+#this is a stock tictactoe program taken out of a tutorial (Free and Open) to experiment w integrating it into the Core script 10-5-22
+
 import pygame, sys
 import numpy as np
 
