@@ -1,4 +1,5 @@
 #+JMJ+AMDG+TTM+
+#this is under construction it doesnt run yet 10-5-22
 
 import pygame
 from pygame.locals import
